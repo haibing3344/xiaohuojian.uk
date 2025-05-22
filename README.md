@@ -58,15 +58,15 @@ features:
 
 ### 使用教程
 
-- [新手入门指南](/tutorial.html#新手入门) - 从零开始，轻松上手
-- [进阶使用技巧](/tutorial.html#进阶使用) - 发掘更多强大功能
-- [常见问题解决](/faq.html) - 解决使用过程中的疑难问题
+- [新手入门指南](https://shadowrocket.uk/tutorial.html#新手入门) - 从零开始，轻松上手
+- [进阶使用技巧](https://shadowrocket.uk/tutorial.html#进阶使用) - 发掘更多强大功能
+- [常见问题解决](https://shadowrocket.uk/faq.html) - 解决使用过程中的疑难问题
 
 ### 机场推荐
 
-- [高速稳定机场](/airport.html#推荐机场) - 精选优质服务提供商
-- [如何选择机场](/airport.html#选择指南) - 教您挑选适合自己的服务
-- [订阅使用方法](/airport.html#订阅教程) - 详细的订阅配置教程
+- [高速稳定机场](https://shadowrocket.uk/airport.html#推荐机场) - 精选优质服务提供商
+- [如何选择机场](https://shadowrocket.uk/airport.html#选择指南) - 教您挑选适合自己的服务
+- [订阅使用方法](https://shadowrocket.uk/airport.html#订阅教程) - 详细的订阅配置教程
 
 ## 页脚区域
 
