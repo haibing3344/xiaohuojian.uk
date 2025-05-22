@@ -1,7 +1,7 @@
 ---
 layout: home
 title:  Shadowrocket官网
-titleTemplate:  shadowrocket下载地址，shadowrocket教程
+titleTemplate:  shadowrocket下载地址，shadowrocket教程,小火箭vpn,小火箭加速器
 description:  Shadowrocket（小火箭）是一款专业网络工具，提供高速稳定的网络连接，帮助用户轻松访问互联网资源。
 head:
   - - meta
