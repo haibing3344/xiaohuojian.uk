@@ -11,7 +11,7 @@ head:
 
 ## 什么是Shadowrocket？
 
-Shadowrocket（小火箭）是一款运行在iOS平台上的轻量级网络工具，由其强大的功能和简洁的界面而广受用户喜爱。作为一款专业的网络工具，Shadowrocket支持多种协议，能够帮助用户更好地访问互联网资源。
+[Shadowrocket](/)（小火箭）是一款运行在iOS平台上的轻量级网络工具，由其强大的功能和简洁的界面而广受用户喜爱。作为一款专业的网络工具，Shadowrocket支持多种协议，能够帮助用户更好地访问互联网资源。
 
 ![Shadowrocket截图](/assets/shadowrocket-screenshot.webp "Shadowrocket截图")
 

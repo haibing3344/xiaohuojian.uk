@@ -13,7 +13,7 @@ head:
 
 ### 基础设置
 
-在开始使用Shadowrocket（小火箭）之前，请确保您已完成以下准备工作：
+在开始使用[Shadowrocket](/)（小火箭）之前，请确保您已完成以下准备工作：
 
 - 已在App Store下载并安装Shadowrocket
 - 已获取有效的服务器订阅链接或节点信息 

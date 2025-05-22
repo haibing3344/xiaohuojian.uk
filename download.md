@@ -11,7 +11,7 @@ head:
 
 ## 官方下载渠道
 
-Shadowrocket（小火箭）是一款iOS平台的专业网络工具，目前**仅在Apple App Store提供官方下载**。为确保您的账户和设备安全，请务必通过官方渠道下载安装。
+[Shadowrocket](/)（小火箭）是一款iOS平台的专业网络工具，目前**仅在Apple App Store提供官方下载**。为确保您的账户和设备安全，请务必通过官方渠道下载安装。
 
 ### App Store下载
 
