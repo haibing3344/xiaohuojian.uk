@@ -32,7 +32,12 @@ export default defineConfig({
         'target': 'https://shadowrocket.uk/search?q={search_term_string}',
         'query-input': 'required name=search_term_string'
       }
-    })]
+    })],
+    ['script', { 
+      async: true, 
+      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2394457707130437',
+      crossorigin: 'anonymous'
+    }]
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
