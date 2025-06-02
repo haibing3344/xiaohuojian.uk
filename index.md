@@ -72,6 +72,7 @@ features:
 
 ### 友情链接
 
+- [机场推荐](https://jichangtuijian.uk) - 便宜好用的翻墙机场推荐
 - [一元机场](https://1yuan.uk/) - 提供高速稳定的网络服务
 - [Clash for Windows](https://clashcn.org) - 一款基于 Clash 内核的 Windows 平台代理工具
 - [Clash Verge Rev](https://clash-verge-rev.org) - Clash Verge 的延续,翻墙必备工具
