@@ -49,6 +49,22 @@ head:
 以下推荐基于用户反馈和市场口碑，不构成任何商业推广。我们与这些服务提供商没有商业合作关系。用户在选择服务时应自行判断，并承担相应风险。
 :::
 
+::: tip 注意事项
+- 套餐价格会根据套餐的流量、速度和设备数而有所不同。
+- 根据您的需求和预算选择合适的套餐。
+:::
+
+## 流量估算参考表
+
+| 使用场景 | 预估每小时流量消耗 | 建议月流量 |
+| --- | --- | --- |
+| 网页浏览、邮件收发 | 50-100 MB | 50 GB |
+| 视频会议、在线课程 | 300-500 MB | 100 GB |
+| 高清流媒体观看 | 1-3 GB | 200-350 GB |
+| 大文件下载、云备份 | 根据文件大小 | 350-600 GB |
+| 4K流媒体、频繁下载 | 5-7 GB | 600+ GB |
+
+
 ## 靠谱机场推荐：
 
 <div class="pricing-container">
@@ -149,6 +165,28 @@ head:
 6. 在线设备最多5人
 </div>
 
+<div class="pricing-card">
+  <div class="pricing-title"><span style="color: red;">XXYUN</span></div>
+  <div class="pricing-price">¥8.88 <span class="pricing-unit" >每月</span></div>
+  <a href="https://xxyun.de/4yEURhWn.html" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
+- 流量：100 GB
+- 速度：800Mbps
+- 设备数：不限制
+
+使用说明
+
+1. 流量: 100GB 丨每月订单日重置
+2. BGP＋中转线路丨800M带宽保障
+3. 不限设备使用
+4. 7x24在线客户服务支持
+5. 解锁: Netflix, Disney+, ChatGPT 等
+
+</div>
 
 <div class="pricing-card">
   <div class="pricing-title"><span style="color: red;">老百姓机场</span></div>
@@ -296,6 +334,29 @@ head:
 </div>
 
 <div class="pricing-card">
+  <div class="pricing-title">FlyBit</div>
+  <div class="pricing-price">¥12.00 <span class="pricing-unit">每月</span></div>
+  <a href="https://flybit.best/#/register?code=o7YHNoqs" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
+- 流量：100 GB
+- 速度： 不限速
+- 设备数：无限制
+
+使用说明
+
+1. ✅️ 月付12 | 季付33 | 半年63 | 年付120
+2. ✅️ 流量：100GB/月
+3. ✅️ 设备：不限制，支持家庭成员共享
+4. ✅️ 媒体：解锁流媒体,ChatGPT
+5. ✅️ 传输：SS协议 | Secure隧道
+6. 🚫 仅限个人使用暂不支持退款
+</div>
+
+<div class="pricing-card">
   <div class="pricing-title">狗狗加速</div>
   <div class="pricing-price">¥15.80 <span class="pricing-unit">每月</span></div>
   <a href="https://down.dginv.click/#/register?code=El5yzgZo" target="_blank" class="buy-button">
@@ -342,6 +403,9 @@ head:
 5. **<span style="color: red;">💛优惠：年付17元/月</span>**
 6. **<span style="color: red;">💛24小時3G流量試用丨滿意後購買</span>**
 </div>
+
+
+
 
 <div class="pricing-card">
   <div class="pricing-title">CHCC</div>
