@@ -39,7 +39,7 @@ head:
 以下教程将提供Shadowrocket最基础的使用方法。
 
 
-- [苹果账号正确登录AppStore下载App教程](https://wiki.applego.win/posts/苹果账号正确登录AppStore下载App教程.html)
+- [苹果账号正确登录AppStore下载App教程](https://wiki.applego.win/posts/苹果账号正确登录appstore下载app教程/)
 :::
 
 
