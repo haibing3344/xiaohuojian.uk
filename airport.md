@@ -174,7 +174,7 @@ head:
   </a>
     
     套餐特点
-- **<span style="color: red;">618 85折优惠码：xxyun618</span>**
+- **<span style="color: red;">新用户85折优惠码：xxyun85</span>**
 - 流量：100 GB
 - 速度：800Mbps
 - 设备数：不限制
@@ -412,7 +412,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">银河云</div>
   <div class="pricing-price">¥8.00 <span class="pricing-unit">每月/<b>年付98元</b></span></div>
-  <a href="https://inv02.galaxyaff.cc/register?aff=la8LavLb" target="_blank" class="buy-button">
+  <a href="https://haibing822.galaxyvipaff01.cc/register?aff=la8LavLb" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -543,14 +543,14 @@ head:
 - 流量：20 GB
 - 速度：不限速
 - 设备数：无限制
+- **<span style="color: red;">💛月付24元，1800G/每月</span>**
 
 使用说明
 
 1. 流量永不过期
 2. 不限设备数量
 3. 4K视频秒开
-4. 回国家宽，新疆可用，游戏专用节点
-5. **<span style="color: red;">💛月付24元，1800G/每月</span>**
+4. **<span style="color: red;">💛回国家宽，新疆可用，游戏专用节点</span>**
 </div>
 </div>
 
