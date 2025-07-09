@@ -34,7 +34,7 @@ head:
 
     推荐商家：
     
-    -   [水果商店](https://applego.win)
+    -   [水果商店](https://applego.idbb.me)
 
 以下教程将提供Shadowrocket最基础的使用方法。
 

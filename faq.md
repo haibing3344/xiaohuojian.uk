@@ -54,7 +54,7 @@ Shadowrocket仅支持iOS设备，包括iPhone、iPad和iPod touch。**目前不�
     
     推荐商家：
     
-  -   [水果商店](https://applego.win)
+  -   [水果商店](https://applego.idbb.me)
 
 
 - [苹果账号正确登录AppStore下载App教程](https://wiki.applego.win/posts/苹果账号正确登录AppStore下载App教程.html)
