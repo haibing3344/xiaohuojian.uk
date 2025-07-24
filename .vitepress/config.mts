@@ -7,29 +7,29 @@ export default defineConfig({
   lang: 'zh-CN',
   cleanUrls: false, // 禁用干净URL，保留.html后缀
   sitemap: {
-    hostname: 'https://shadowrocket.uk'
+    hostname: 'https://xiaohuojian.uk'
   },
   head: [
     ['meta', { name: 'keywords', content: 'Shadowrocket,Shadowrocket官网,Shadowrocket下载地址,小火箭,网络工具' }],
     ['meta', { name: 'author', content: 'Shadowrocket官方团队' }],
     ['meta', { property: 'og:title', content: 'Shadowrocket官网 - 专业网络工具' }],
     ['meta', { property: 'og:description', content: 'Shadowrocket官网提供最新版本下载、使用教程和机场推荐，帮助用户轻松访问互联网资源。' }],
-    ['meta', { property: 'og:url', content: 'https://shadowrocket.uk' }],
-    ['meta', { property: 'og:image', content: 'https://shadowrocket.uk/logo.png' }],
+    ['meta', { property: 'og:url', content: 'https://xiaohuojian.uk' }],
+    ['meta', { property: 'og:image', content: 'https://xiaohuojian.uk/logo.png' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:title', content: 'Shadowrocket官网 - 专业网络工具' }],
     ['meta', { name: 'twitter:description', content: 'Shadowrocket官网提供最新版本下载、使用教程和机场推荐，帮助用户轻松访问互联网资源。' }],
-    ['meta', { name: 'twitter:image', content: 'https://shadowrocket.uk/logo.png' }],
+    ['meta', { name: 'twitter:image', content: 'https://xiaohuojian.uk/logo.png' }],
     ['script', { type: 'application/ld+json' }, JSON.stringify({
       '@context': 'https://schema.org',
       '@type': 'WebSite',
       'name': 'Shadowrocket官网',
-      'url': 'https://shadowrocket.uk',
+      'url': 'https://xiaohuojian.uk',
       'description': 'Shadowrocket官网提供最新版本下载、使用教程和机场推荐，帮助用户轻松访问互联网资源。',
       'potentialAction': {
         '@type': 'SearchAction',
-        'target': 'https://shadowrocket.uk/search?q={search_term_string}',
+        'target': 'https://xiaohuojian.uk/search?q={search_term_string}',
         'query-input': 'required name=search_term_string'
       }
     })],
@@ -81,7 +81,7 @@ export default defineConfig({
        outlineTitle: '本页导航',
     footer: {
       message: '本站内容仅供参考，不构成任何建议',
-      copyright: '© 2024 <a href="https://shadowrocket.uk" target="_blank">Shadowrocket</a> 版权所有'
+      copyright: '© 2024 <a href="https://xiaohuojian.uk" target="_blank">Shadowrocket</a> 版权所有'
     }
   }
 })

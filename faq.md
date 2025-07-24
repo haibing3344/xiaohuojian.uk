@@ -4,7 +4,7 @@ description: 全面解答Shadowrocket使用过程中的常见问题，包括连�
 head:
   - - link
     - rel: canonical
-      href: https://shadowrocket.uk/faq.html
+      href: https://xiaohuojian.uk/faq.html
 ---
 
 # 常见问题

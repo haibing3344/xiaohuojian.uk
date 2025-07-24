@@ -4,7 +4,7 @@ description: 全面的Shadowrocket使用教程，包括基础配置、进阶设�
 head:
   - - link
     - rel: canonical
-      href: https://shadowrocket.uk/tutorial.html
+      href: https://xiaohuojian.uk/tutorial.html
 ---
 
 # Shadowrocket使用教程

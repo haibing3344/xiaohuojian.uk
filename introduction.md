@@ -4,7 +4,7 @@ description: 了解Shadowrocket的功能特点、技术优势和应用场景，�
 head:
   - - link
     - rel: canonical
-      href: https://shadowrocket.uk/introduction.html
+      href: https://xiaohuojian.uk/introduction.html
 ---
 
 # Shadowrocket介绍

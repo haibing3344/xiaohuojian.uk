@@ -4,7 +4,7 @@ description: 精选Shadowrocket兼容的优质机场服务提供商，包括选�
 head:
   - - link
     - rel: canonical
-      href: https://shadowrocket.uk/airport.html
+      href: https://xiaohuojian.uk/airport.html
 ---
 
 # 机场推荐

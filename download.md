@@ -4,7 +4,7 @@ description: 获取Shadowrocket最新版本下载地址，了解安装步骤和�
 head:
   - - link
     - rel: canonical
-      href: https://shadowrocket.uk/download.html
+      href: https://xiaohuojian.uk/download.html
 ---
 
 # Shadowrocket下载
