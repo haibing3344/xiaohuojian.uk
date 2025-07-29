@@ -74,7 +74,7 @@ features:
 
 - [机场推荐 - 便宜好用的翻墙性价比机场推荐](https://jichangtuijian.uk)
 - [Clash Verge Rev - 跨平台代理客户端](https://clash-verge-rev.org/)
-- [一元机场 - 提供高性价比的网络服务](https://1yuan.win/)
+- [一元机场 - 提供高性价比的网络服务](https://1rmb.org/)
 - [两元店机场 - 高性价比的VPN科学上网服务](http://2yuan.uk)
 - [淘气兔机场 - 全中转机场](https://taoqitu.uk/)
 - [宝可梦机场 - 高速梯子vpn,每月领兑换码可以免费使用](https://baokemeng.bid)
