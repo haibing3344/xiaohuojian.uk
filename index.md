@@ -73,17 +73,5 @@ features:
 ### 友情链接
 
 - [机场推荐 - 便宜好用的翻墙性价比机场推荐](https://jichangtuijian.uk)
-- [Clash Verge Rev - 跨平台代理客户端](https://clash-verge-rev.org/)
-- [一元机场 - 提供高性价比的网络服务](https://1rmb.org/)
-- [两元店机场 - 高性价比的VPN科学上网服务](http://2yuan.uk)
-- [淘气兔机场 - 全中转机场](https://taoqitu.uk/)
-- [宝可梦机场 - 高速梯子vpn,每月领兑换码可以免费使用](https://baokemeng.bid)
-- [Clash for Windows - 一款基于 Clash 内核的 Windows 平台代理工具](https://clashcn.org)
-- [Hiddify - Hiddify 是一款基于 Sing-box 的现代化、跨平台代理客户端](https://hiddifycn.org)
-- [Mihomo Party - 基于Mihomo(Clash Meta)核心的新一代网络代理工具](https://mihomo.bid)
-- [Shadowrocket(小火箭) - iOS 专业网络工具](https://xiaohuojian.uk)
-- [Karing  - 新一代网络代理工具,免费](https://karings.org)
-- [Stash - 简单且强大的网络工具](https://stashapp.uk)
-- [Loon - iOS平台最强大的网络代理工具](https://nsloon.uk)
-- [ClashMetaForAndroid](https://clashmeta.bid) - 基于ClashMeta的Android代理客户端
+
 
