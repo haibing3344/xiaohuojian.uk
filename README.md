@@ -82,11 +82,11 @@ features:
 
 
 ::: tip 🎉 节点推荐
-- 🚀 [Cyberguard: 解锁Netflix/Hbo/Disney+/Dazn等流媒体,18.00元/月](https://a.suola.link/cyberguard)
-- 🚀 [优信云：IEPL/IPLC 高速专线，￥15.00/月](https://a.suola.link/youxinyun)<br>
-- 🚀 [尔湾云：最大峰值1000Mbps，全流媒体及ChatGPT解锁！最低12元/月](https://a.suola.link/erwan)<br>
-- 🚀 [TNTCloud：新开机场，季付30，每月低至￥10.00/月](https://a.suola.link/tnt)<br>
-- 🚀 [魔戒：不限时，不限制使用人数，直至套餐流量用完，低至￥14.9/130G流量](https://a.suola.link/mojie)<br>
-- 🚀 [宝可梦星云：新用户首单：9折优惠码：9999，低至5.9/月 ](https://a.suola.link/pokemon)
-- 🚀 [NanoCloud: 绑定TG机器人每天领取免费流量，月付最低1元/月](https://a.suola.link/nanocloud)
+- 🚀 [Cyberguard: 解锁Netflix/Hbo/Disney+/Dazn等流媒体,18.00元/月](https://c.jichangs.com/cyberguard)
+- 🚀 [优信云：IEPL/IPLC 高速专线，￥15.00/月](https://c.jichangs.com/youxinyun)<br>
+- 🚀 [尔湾云：最大峰值1000Mbps，全流媒体及ChatGPT解锁！最低12元/月](https://c.jichangs.com/erwan)<br>
+- 🚀 [TNTCloud：新开机场，季付30，每月低至￥10.00/月](https://c.jichangs.com/tnt)<br>
+- 🚀 [魔戒：不限时，不限制使用人数，直至套餐流量用完，低至￥14.9/130G流量](https://c.jichangs.com/mojie)<br>
+- 🚀 [宝可梦星云：新用户首单：9折优惠码：9999，低至5.9/月 ](https://c.jichangs.com/pokemon)
+- 🚀 [NanoCloud: 绑定TG机器人每天领取免费流量，月付最低1元/月](https://c.jichangs.com/nanocloud)
 :::
